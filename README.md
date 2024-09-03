@@ -7,53 +7,51 @@
 ## Sponsor Teacher:
 
 ## Members:
-- Nathan H. Park (Founder/Leader)
--  (Vice-Lead)
--  (RecruitingLead)
--  (EventLead)
+- Nathan H. Park (Founder/President)
+-  (Vice-President)
+-  (Secretary)
+-  (Treasurer)
+-  (member)
+-  (member)
+-  (member)
+-  (member)
+-  (member)
 
 ## Objectives of AI4All
 
 The proposed club (AI4All) is intended to promote deeper understanding of computer science and hands-on learning in artificial intelligence (AI) and machine learning (ML) among students of McLean High School. We plan to start with (1) **Lessons**: a student-led study group to learn and share knowledge in AI and ML fields, (2) **Project Design**: several group projects among team members and interested participants, and (3) **Events**: host a yearly presentation day to show our activities and recruit future members. To handle the three main activities–lessons, project design, and events–we will also elect co-leads for the main activities. Lessons will be the main focus in the beginning stages of the club, and later in the year the club will pursue AI centered projects that are designed to help the community. Lastly, the annual events will be a channel to share our knowledge and activities with the school community. 
 
-# Updated plans
-By end of mid- september: 
-
-Familiarize members working with environments and open cv library
-
-Initiate student data collection/figure out a system
-
-By end of october
-
-Finish making a project with opencv to recognize students and various details about them when looking far away
-
-Keep collecting data/ begin to experiment with more gpt material
-
-By end of november
-
-Keep collecting data
-
-Begin to talk about how to sort data
-
-
-End of january:
-
-With alot of data start testing? Model or something
 
 
 ## Tentative Agenda for Study Group Activities
 
-Weeks	Topic
-Week 1-2	What is ML? What is AI?
-Week 3-4	ML: Supervised Learning
-Week 5-6	ML: Neural Networks
-Week 7-8	ML: Unsupervised Learning
-Week 9-10	ML: Reinforcement Learning
-Week 11-12	AI: Tensorflow / Deep Neural Nets
-Week 13-14	AI: Computer Vision and CNN
-Week 15-16	AI: Transformer and Generative Models
-Week 17-18	AI: LLM
-Week 19-20	AI: Other Applications
+Weekly	Topic
+|   Week  |           Topic             | Note (P.I.C) |
+|---------|:---------------------------:|-------------:|
+| Week 1  | What is ML? What is AI?     |  Nathan Park |
+| Week 2  | ML: Supervised Learning/NN  |              |
+| Week 3  | ML: Neural Networks         |              |
+| Week 4  | AI: Computer Vision and CNN |              |
+| Week 5  | AI: LLM                     |              |
+| Week 6  |                     |              |
+| Week 7  |                     |              |
+| Week 8  |                     |              |
+| Week 9  |                     |              |
+
+[//]:# "ML: Unsupervised Learning"
+[//]:# "ML: Reinforcement Learning"
+[//]:# "AI: Other Applications"	
+[//]:# "AI: Transformer and Generative Models"
+
+# Updated plans
+- By end of mid- september: Familiarize members working with environments and open cv library
+  -- Initiate student data collection/figure out a system
+- By end of october: Finish making a project with opencv to recognize students and various details about them when looking far away
+- Keep collecting data/ begin to experiment with more gpt material
+- By end of november: Keep collecting data
+-- Begin to talk about how to sort data
+- End of january: With alot of data start testing? Model or something
+
 
 Weekly Schedule: Each leader will learn their topic ahead of time and teach others about them each week, once enough material has been learned or material can be implemented or tested, weekly meetings will be more hands-on, and then eventually the club can split into groups that work on different projects, can have specialized roles. 
 
@@ -61,7 +59,7 @@ Monthly Schedule: The club will have a meeting every end of the month in order t
 
 Every two months or replace one month with this : during the learning stages, groups should have a group session where they try and recall material and concepts through problems created in discussion with the sponsor teacher or other members in order to test knowledge. During project stages: groups should come up with a powerpoint or presentation that displays the progress to the club
 
-Every three months: (If sponsor is Ms.Frew) Ms.Frew teaching session or advising time, what members could focus on and learn. (These sessions could be learning sessions too if possible)
+[//]: # "Every three months: (If sponsor is Ms.Frew) Ms.Frew teaching session or advising time, what members could focus on and learn. (These sessions could be learning sessions too if possible)"
 
 Goal by the end of the year is to create a group of students that are able to create AI apps and use them at school and in real world spaces.
 
