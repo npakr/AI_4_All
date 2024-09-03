@@ -30,7 +30,7 @@ Weekly	Topic
 |---------|:---------------------------:|-------------:|
 | Week 1  | What is ML? What is AI?     |  Nathan Park |
 | Week 2  | ML: Supervised Learning/NN  |              |
-| Week 3  | ML: Neural Networks         |              |
+| Week 3  | Anaconda / Jupiter setup    |              |
 | Week 4  | AI: Computer Vision and CNN |              |
 | Week 5  | AI: LLM                     |              |
 | Week 6  |                     |              |
