@@ -2,7 +2,7 @@
 [//]: # "https://markdown.land/markdown-code-block"
 [//]: # "https://markdown.land/readme-md"
 
-# **Club Title: AI for All (AI4All)**
+# **Club Title: AI for All (AI-4-All)**
 
 ![alt text](https://github.com/npakr/AI_4_All/blob/main/AI4All-Logo.webp "AI-4-All Logo")
 
