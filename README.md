@@ -4,6 +4,8 @@
 
 # **Club Title: AI for All (AI4All)**
 
+![alt text](https://github.com/npakr/AI_4_All/blob/main/AI4All-Logo.webp "AI-4-All Logo")
+
 ## Sponsor Teacher:
 
 ## Members:
