@@ -54,7 +54,7 @@ Weekly	Topic
 | Study Point 8  | ML: Unsupervised Learning  |              |
 | Study Point 9  | ML: Reinforcement Learning |              |
 | Study Point 10  | AI: Tensorflow / Deep Neural Nets |              |
-| Study Point 11  | AI: Computer Vision and CNNg |              |
+| Study Point 11  | AI: Computer Vision and CNN |              |
 | Activity 2  | AI-ART and Pop-up show? |              |
 | Study Point 13  | AI: LLM |              |
 | Study Point 14  | AI: Other Applications |               |
