@@ -11,8 +11,8 @@
 ## Members:
 - Nathan H. Park (Founder/President)
 - Colin Park (Vice-President)
-- Ethan Mei (Secretary)
-- David Zeng (Treasurer)
+- Ethan Mei (Vice-President)
+- David Zeng 
 - Zain Aldin Alhammam 
 - Marcus Choi 
 - Richard Deng 
@@ -24,9 +24,9 @@
 - Hanning Li 
 - Sarah Li 
 - Oviyah Ranajrusgbab
-- Shivansh Sharma
+- Shivansh Sharma (Secretary)
 - Kalan Warusa
-- Eric Xue
+- Eric Xue (Treasurer)
 - Paul Yoo
 -  (member)
 -  (member)
@@ -43,21 +43,22 @@ The first AI club in McLean HS, AI-for-All (AI4All), is intended to promote deep
 Weekly	Topic
 |   Week  |           Topic             | Note (P.I.C) |
 |---------|:---------------------------:|-------------:|
-| Week 1  | What is ML? What is AI?     |  Nathan Park |
-| Week 2  | ML: Supervised Learning/NN  |              |
-| Week 3  | Anaconda / Jupiter setup    |              |
-| Week 4  | AI: Computer Vision and CNN |              |
-| Week 5  | What is ML? What is AI?      |              |
-| Week 6  | ML: Supervised Learning   |              |
-| Week 7  | ML: Neural Networks   |              |
-| Week 8  | ML: Unsupervised Learning  |              |
-| Week 9  | ML: Reinforcement Learning |              |
-| Week 10  | AI: Tensorflow / Deep Neural Nets |              |
-| Week 11  | AI: Computer Vision and CNNg |              |
-| Week 12  | AI-ART and Pop-up show? |              |
-| Week 13  | AI: LLM |              |
-| Week 14  | AI: Other Applications |               |
-| Week 15  | AI: Project Ideas and Team-up |              |
+| Activity 1 | AI4All Club Invite & Demo day | Nathan Park (Poster: Colin Park) |
+| Study Point 1  | What is ML? What is AI?     |  Nathan Park |
+| Study Point 2  | ML: Supervised Learning/NN  |              |
+| Study Point 3  | Anaconda / Jupiter setup    |              |
+| Study Point 4  | AI: Computer Vision and CNN |              |
+| Study Point 5  | What is ML? What is AI?      |              |
+| Study Point 6  | ML: Supervised Learning   |              |
+| Study Point 7  | ML: Neural Networks   |              |
+| Study Point 8  | ML: Unsupervised Learning  |              |
+| Study Point 9  | ML: Reinforcement Learning |              |
+| Study Point 10  | AI: Tensorflow / Deep Neural Nets |              |
+| Study Point 11  | AI: Computer Vision and CNNg |              |
+| Activity 2  | AI-ART and Pop-up show? |              |
+| Study Point 13  | AI: LLM |              |
+| Study Point 14  | AI: Other Applications |               |
+| Activity 3  | AI: Project Ideas and Team-up |              |
 
 [//]:# "AI: Transformer and Generative Models"
 
