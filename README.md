@@ -10,18 +10,31 @@
 
 ## Members:
 - Nathan H. Park (Founder/President)
--  (Vice-President)
--  (Secretary)
--  (Treasurer)
+- Colin Park (Vice-President)
+- Ethan Mei (Secretary)
+- David Zeng (Treasurer)
+- Zain Aldin Alhammam 
+- Marcus Choi 
+- Richard Deng 
+- Wonwoo Do 
+- Nicholas Harrje 
+- Colin Heinitz 
+- Cyrus Irdmusa 
+- Svanik Kumar 
+- Hanning Li 
+- Sarah Li 
+- Oviyah Ranajrusgbab
+- Shivansh Sharma
+- Kalan Warusa
+- Eric Xue
+- Paul Yoo
 -  (member)
 -  (member)
 -  (member)
 -  (member)
--  (member)
-
 ## Objectives of AI4All
 
-The proposed club (AI4All) is intended to promote deeper understanding of computer science and hands-on learning in artificial intelligence (AI) and machine learning (ML) among students of McLean High School. We plan to start with (1) **Lessons**: a student-led study group to learn and share knowledge in AI and ML fields, (2) **Project Design**: several group projects among team members and interested participants, and (3) **Events**: host a yearly presentation day to show our activities and recruit future members. To handle the three main activities–lessons, project design, and events–we will also elect co-leads for the main activities. Lessons will be the main focus in the beginning stages of the club, and later in the year the club will pursue AI centered projects that are designed to help the community. Lastly, the annual events will be a channel to share our knowledge and activities with the school community. 
+The first AI club in McLean HS, AI-for-All (AI4All), is intended to promote deeper understanding of computer science and hands-on learning in artificial intelligence (AI) and machine learning (ML) among students of McLean High School. We plan to start with (1) **Lessons**: a student-led study group to learn and share knowledge in AI and ML fields, (2) **Project Design**: several group projects among team members and interested participants, and (3) **Events**: host a yearly presentation day to show our activities and recruit future members. To handle the three main activities–lessons, project design, and events–we will also elect co-leads for the main activities. Lessons will be the main focus in the beginning stages of the club, and later in the year the club will pursue AI centered projects that are designed to help the community. Lastly, the annual events will be a channel to share our knowledge and activities with the school community. 
 
 
 
@@ -34,15 +47,18 @@ Weekly	Topic
 | Week 2  | ML: Supervised Learning/NN  |              |
 | Week 3  | Anaconda / Jupiter setup    |              |
 | Week 4  | AI: Computer Vision and CNN |              |
-| Week 5  | AI: LLM                     |              |
-| Week 6  |                     |              |
-| Week 7  |                     |              |
-| Week 8  |                     |              |
-| Week 9  |                     |              |
+| Week 5  | What is ML? What is AI?      |              |
+| Week 6  | ML: Supervised Learning   |              |
+| Week 7  | ML: Neural Networks   |              |
+| Week 8  | ML: Unsupervised Learning  |              |
+| Week 9  | ML: Reinforcement Learning |              |
+| Week 10  | AI: Tensorflow / Deep Neural Nets |              |
+| Week 11  | AI: Computer Vision and CNNg |              |
+| Week 12  | AI-ART and Pop-up show? |              |
+| Week 13  | AI: LLM |              |
+| Week 14  | AI: Other Applications |               |
+| Week 15  | AI: Project Ideas and Team-up |              |
 
-[//]:# "ML: Unsupervised Learning"
-[//]:# "ML: Reinforcement Learning"
-[//]:# "AI: Other Applications"	
 [//]:# "AI: Transformer and Generative Models"
 
 # Updated plans
