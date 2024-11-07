@@ -12,6 +12,8 @@
 - Nathan H. Park (Founder/President)
 - Colin Park (Vice-President)
 - Ethan Mei (Vice-President)
+- Shivansh Sharma (Secretary)
+- Eric Xue (Treasurer)
 - David Zeng 
 - Zain Aldin Alhammam 
 - Marcus Choi 
@@ -24,9 +26,7 @@
 - Hanning Li 
 - Sarah Li 
 - Oviyah Ranajrusgbab
-- Shivansh Sharma (Secretary)
 - Kalan Warusa
-- Eric Xue (Treasurer)
 - Paul Yoo
 -  (member)
 -  (member)
