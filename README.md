@@ -51,11 +51,11 @@ Weekly	Topic
 | Study Point 5  | What is ML? What is AI?      |              |
 | Study Point 6  | ML: Supervised Learning   |              |
 | Study Point 7  | ML: Neural Networks   |              |
+| Activity 2  | AI-ART and Pop-up show? |              |
 | Study Point 8  | ML: Unsupervised Learning  |              |
 | Study Point 9  | ML: Reinforcement Learning |              |
 | Study Point 10  | AI: Tensorflow / Deep Neural Nets |              |
 | Study Point 11  | AI: Computer Vision and CNN |              |
-| Activity 2  | AI-ART and Pop-up show? |              |
 | Study Point 13  | AI: LLM |              |
 | Study Point 14  | AI: Other Applications |               |
 | Activity 3  | AI: Project Ideas and Team-up |              |
